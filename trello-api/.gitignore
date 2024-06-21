@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+reports/report.html
+.env-trello-api/
+.idx/
+.env
